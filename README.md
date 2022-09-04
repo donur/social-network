@@ -1,4 +1,4 @@
-## Projeyi çalıştırmak için;
+## To run the project;
 
 ```bash
 git clone https://github.com/donur/social-network.git
